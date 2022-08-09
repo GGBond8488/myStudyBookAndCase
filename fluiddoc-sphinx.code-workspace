@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../fluiddoc-sphinx"
+		},
+		{
+			"name": ".leetcode",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
